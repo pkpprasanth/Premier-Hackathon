@@ -49,6 +49,14 @@ The `src/data.js` contains an array of 250 players. We are talking about the arr
 
 Ohh yes! We have our beloved tests, and you already know how this works.Open the `index.html` file on your browser and chack your output . Open the `SpecRunner.html` file on your browser and start coding to pass the test. Remember to focus on one test at a time and read carefully the instructions to understand what you have to do.
 
+## Starter Output
+
+### Output file index.html
+![alt text](https://github.com/prasanth132910/image/blob/main/Screenshot (50).png)
+
+### Testing file SpecRunner.html
+![alt text](https://github.com/prasanth132910/image/blob/main/Screenshot (49).jp)
+
 ## Progression 1: Gotta coach em all!
 
 Every team starts off with a manager. We need someone to take care of them when Alex isn't around. Create a function `createManager()` that gets the manager's details `managerName, managerAge, currentTeam, trophiesWon` in the same order, and _return an array_ with the manager's details.
