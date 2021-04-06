@@ -10,7 +10,7 @@ Alas, for all the money in the world, he can't find a decent programmer to help 
 
 - Fork this repo
 - Clone this repo
-- Practice JavaScript basics - _operators, conditions, loops_
+
 
 ## How do you submit?
 
