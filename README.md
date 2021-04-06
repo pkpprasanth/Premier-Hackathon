@@ -52,10 +52,10 @@ Ohh yes! We have our beloved tests, and you already know how this works.Open the
 ## Starter Output
 
 ### Output file index.html
-![alt text](https://github.com/prasanth132910/image/blob/main/Screenshot (50).png)
+![alt text](https://github.com/prasanth132910/image/blob/main/Screenshot%20(50).png)
 
 ### Testing file SpecRunner.html
-![alt text](https://github.com/prasanth132910/image/blob/main/Screenshot (49).jp)
+![alt text](https://github.com/prasanth132910/image/blob/main/Screenshot%20(49).png)
 
 ## Progression 1: Gotta coach em all!
 
